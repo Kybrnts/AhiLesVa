@@ -11,7 +11,7 @@ Resulta que es posible descargarlos para luegos compartirlos mediante el archivo
 El objetivo de este repositorio es mantener actualizado el *.torrent con la
 información de los últimos videos publicados.
 
-Para usarlo simplemente descargar un cliente Torrent como Transmission,
+Para usarlo, simplemente descargar un cliente Torrent como Transmission,
 UTorrent o similar, y podrás realizar la descarga de los videos y ayudar a su
-difusión entre pares, y así evitar tener que usar el reproductor Web y con sus
+difusión entre pares, evitando tener que usar el reproductor Web, con sus
 consiguientes limitaciones.
