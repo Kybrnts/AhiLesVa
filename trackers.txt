@@ -1,0 +1,8 @@
+http://www.sumotracker.com/announce
+http://atrack.pow7.com/announce
+http://pow7.com:80/announce
+http://secure.pow7.com/announce
+http://t1.pow7.com/announce
+http://t2.pow7.com/announce
+http://www.wareztorrent.com/announce
+http://www.wareztorrent.com:80/announce
